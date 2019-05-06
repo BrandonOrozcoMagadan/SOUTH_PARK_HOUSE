@@ -1,0 +1,18 @@
+﻿  main_SP_OMB.cpp
+c:\users\brand\documents\visual studio 2017\proyectos\proyecto final\cartman_house\south_park\south_park\main_sp_omb.cpp(1007): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\brand\documents\visual studio 2017\proyectos\proyecto final\cartman_house\south_park\south_park\main_sp_omb.cpp(3429): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\brand\documents\visual studio 2017\proyectos\proyecto final\cartman_house\south_park\south_park\main_sp_omb.cpp(3445): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\brand\documents\visual studio 2017\proyectos\proyecto final\cartman_house\south_park\south_park\main_sp_omb.cpp(3454): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\brand\documents\visual studio 2017\proyectos\proyecto final\cartman_house\south_park\south_park\main_sp_omb.cpp(3479): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\brand\documents\visual studio 2017\proyectos\proyecto final\cartman_house\south_park\south_park\main_sp_omb.cpp(3480): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\brand\documents\visual studio 2017\proyectos\proyecto final\cartman_house\south_park\south_park\main_sp_omb.cpp(3481): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\brand\documents\visual studio 2017\proyectos\proyecto final\cartman_house\south_park\south_park\main_sp_omb.cpp(3490): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\brand\documents\visual studio 2017\proyectos\proyecto final\cartman_house\south_park\south_park\main_sp_omb.cpp(3491): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\brand\documents\visual studio 2017\proyectos\proyecto final\cartman_house\south_park\south_park\main_sp_omb.cpp(3492): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\brand\documents\visual studio 2017\proyectos\proyecto final\cartman_house\south_park\south_park\main_sp_omb.cpp(3506): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\brand\documents\visual studio 2017\proyectos\proyecto final\cartman_house\south_park\south_park\main_sp_omb.cpp(3507): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\brand\documents\visual studio 2017\proyectos\proyecto final\cartman_house\south_park\south_park\main_sp_omb.cpp(3511): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\brand\documents\visual studio 2017\proyectos\proyecto final\cartman_house\south_park\south_park\main_sp_omb.cpp(3512): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\brand\documents\visual studio 2017\proyectos\proyecto final\cartman_house\south_park\south_park\main_sp_omb.cpp(3514): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\brand\documents\visual studio 2017\proyectos\proyecto final\cartman_house\south_park\south_park\main_sp_omb.cpp(3515): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  SOUTH_PARK.vcxproj -> C:\Users\brand\Documents\Visual Studio 2017\Proyectos\PROYECTO FINAL\CARTMAN_HOUSE\SOUTH_PARK\Debug\SOUTH_PARK.exe
